@@ -1,3 +1,9 @@
+# Important: Moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/examples/serverless-push)
+
+The contents of this repo have been moved to [hasura/graphql-engine](https://github.com/hasura/graphql-engine/tree/master/community/examples/serverless-push). Please create all issues and pull requests there.
+
+---
+
 # Web notifications using Hasura GraphQL Engine Event Triggers and FCM
 
 Visit https://shahidhk.github.io/hasura-web-push-notifs for a live demo.
